@@ -1,0 +1,13 @@
+body {
+		background-color: #D6F8D3; 
+}
+h1 {
+		background-color: #7081ff;
+}
+
+div {
+		background-color: yellow;
+}
+img:hover {
+	opacity: 0.7
+}
